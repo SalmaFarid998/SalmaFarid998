@@ -1,54 +1,60 @@
+<!--
+🌟 Modern GitHub Profile README 🌟
+Just replace your username in the stats URLs and add your name below!
+-->
+
 <h1 align="center">👋 Hey there, I'm Salma!</h1>
 
 <h3 align="center">💻 I'm a full-stack .NET and Angular developer from Cairo, Egypt 🇪🇬</h3>
 
 ---
 
-### 🚀 About Me  
-🌱 I’m currently focused on building **enterprise applications** and learning about **application security**.  
-💡 Passionate about crafting clean, scalable, and maintainable code.  
-🎯 I love turning complex problems into elegant solutions with **C#**, **ASP.NET Core**, and **Angular**.  
-☕ Fueled by coffee, curiosity, and good design.  
+### 🚀 About Me
+🌱 Currently focused on building **enterprise apps** and learning about **app security**.  
+🧠 Passionate about clean architecture, performance, and great UI/UX.  
+💬 I love working with **C#**, **ASP.NET Core**, and **Angular** to build powerful web solutions.  
+☕ Coffee + Code = Happiness.  
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
+
 <div align="center">
   
-| Languages | Frameworks | Frontend | Tools |
-|------------|-------------|-----------|--------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+#### 🖥️ Languages & Frameworks  
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,html,css" /></a>
+
+#### ⚙️ Tools & Platforms  
+<a href="#"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,azure,postman" /></a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmaFarid998&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaFarid998&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalmaFarid998&theme=radical&hide_border=true)
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=SalmaFarid998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaFarid998&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=SalmaFarid998&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-### ✨ Fun Zone  
+### ✨ Fun Zone
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
 
-🎮 When I’m not coding, I’m probably exploring new tech, sketching UI ideas, or tweaking side projects.  
+🎮 When I’m not coding, I’m probably experimenting with new frameworks or designing UI mockups.  
 
 ---
 
-### 🖋️ Feel free to fork this README!  
-If you like the style, grab it and make it yours — just don’t forget to ⭐ the repo 😄  
-
----
-
-<!-- Optional: add an aesthetic footer GIF -->
 <div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Coding" width="500"/>
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Coding Dino" width="500"/>
 </div>
